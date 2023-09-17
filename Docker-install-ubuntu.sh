@@ -13,10 +13,11 @@ sleep 2
 read -p " where are you ???"  where
 
 case $where in 
-  [iran] )  echo "OK nedd nameserver .... Please ...";
-        echo "name serverr 10.202.10.202 > /etc/resolv.conf ";
+  [iran] )  echo "OK need nameserver .... Please ...";
+        echo -e "nameserverr 10.202.10.202\nnameserver 10.202.10.102" > /etc/resolv.conf
         echo "mirim baraye nasb docker ... "
         sleep 2 
+
           clear 
 
         
