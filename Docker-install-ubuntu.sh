@@ -6,7 +6,6 @@ Install Start ...
 Please Wait a Few ...
 
 EOF
-
 slpee 2 
 clear
 echo "if you from iran , type iran ya age zendegi nimikonid dar iran type kondi no "
