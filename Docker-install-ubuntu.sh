@@ -38,18 +38,6 @@ sleep 2
 	su - ${USER}
 	sleep 1 
 	clear 
-
 	echo "Docker Install .... GG"
-	
-	
-
-          clear 
-
-        
-          break;;
-  [no] ) echo "exiting ....";
-      exit;;
-    * ) echo "invalid command ....";;
-esac 
 
 
